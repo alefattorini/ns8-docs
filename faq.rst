@@ -102,4 +102,4 @@ local running services.
 If you are looking for a nice firewall project, NethSecurity_ is the
 successor of NethServer 7 firewall capabilities.
 
-.. _NethSecurity: https://docs.nethsecurity.org
+.. _NethSecurity: https://www.nethsecurity.org
